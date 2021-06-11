@@ -1,5 +1,5 @@
 # A simple blueprint react application.
- Contains express server, material-ui babel and webpack. Heroku ready. 
+ Contains express server, material-ui, babel and webpack. Heroku ready. 
 
 ## Available Scripts
 ### `yarn start`
